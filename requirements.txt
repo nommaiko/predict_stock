@@ -1,0 +1,12 @@
+altair
+mqlfinance
+numpy
+pandas
+pandas-datareader
+pillow
+plotly
+scikit-learn
+scipy
+sklearn
+streamlit
+yfinance
