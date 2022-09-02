@@ -3,7 +3,7 @@ mqlfinance
 numpy
 pandas
 pandas-datareader
-pillow
+Pillow
 plotly
 scikit-learn
 scipy
